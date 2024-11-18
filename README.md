@@ -1,5 +1,5 @@
 ## Sobre o projeto
-Essa aplicação, desenvolvida utilizando **.NET FRAMEWORK 4.6** utilizando **Windows Forms**,. O objetivo é permitir que uma empresa registre clientes, 
+Essa aplicação, desenvolvida utilizando **.NET Framework 4.6** utilizando **Windows Forms**,. O objetivo é permitir que uma empresa registre clientes, 
 produtos e vendas, com os dados sendo armazenados de forma segura em um banco de dados **PostgreSQL**.
 
 Dentre os pacotes NuGet utilizados, o **NPGSQL** é o responsável pela conexão com o banco de dados relacional **PostgreSQL**. 
@@ -15,7 +15,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 ### Requisitos
 - Visual Studio versão 2022+ ou Visual Studio Code
-- Windows 10+ ou Linux/MacOS com [.NET FRAMEWORK 4.6][dot-net-sdk] instalado
+- Windows 10+ ou Linux/MacOS com [.NET Framework 4.6][dot-net-sdk] instalado
 - PostgreSQL versão 17
 
 ### Instalação
