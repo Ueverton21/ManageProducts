@@ -15,7 +15,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 ### Requisitos
 - Visual Studio versão 2022+ ou Visual Studio Code
-- Windows 10+ ou Linux/MacOS com [.NET SDK][dot-net-sdk] instalado
+- Windows 10+ ou Linux/MacOS com [.NET FRAMEWORK 4.6][dot-net-sdk] instalado
 - PostgreSQL versão 17
 
 ### Instalação
@@ -24,3 +24,6 @@ Para obter uma cópia local funcionando, siga estes passos simples.
     git clone https://github.com/Ueverton21/ManageProducts.git
     ```
 2. Execute a aplicação no Visual Studio 2022+
+
+
+[dot-net-sdk]: https://www.microsoft.com/pt-br/download/details.aspx?id=48137
