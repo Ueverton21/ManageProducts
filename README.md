@@ -23,7 +23,9 @@ Para obter uma cópia local funcionando, siga estes passos simples.
     ```sh 
     git clone https://github.com/Ueverton21/ManageProducts.git
     ```
-2. Execute a aplicação no Visual Studio 2022+
+2. Rode os scripts no PostgreSQL para gerar as tabelas. Arquivo: scritps_sql_manage_products.sql
+   
+4. Execute a aplicação no Visual Studio 2022+
 
 
 [dot-net-sdk]: https://www.microsoft.com/pt-br/download/details.aspx?id=48137
