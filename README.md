@@ -21,6 +21,6 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 ### Instalação
 1. Clone o repositório:
     ```sh 
-    git clone https://github.com/Ueverton21/CashFlow.git
+    git clone https://github.com/Ueverton21/ManageProducts.git
     ```
 2. Execute a aplicação no Visual Studio 2022+
